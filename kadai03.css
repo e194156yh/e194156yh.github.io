@@ -1,0 +1,35 @@
+ h1 {
+     color:white;
+     font-size: 50px;
+     font-weight : bold; 
+     font-family: "Impact";
+     text-align: center;
+     background-color:black;  
+ }
+
+ h2 {
+     color:indigo;
+     font-weight : bold;
+     text-align: center;
+     background-color:lightgreen;  
+     
+ }
+
+ h3 {
+     color: blue;
+     font-weight: bold; 
+ }
+
+ p {
+     color: brown;
+ }
+
+ body{
+    background-image: url("../images/doraemon.jpg");
+    background-repeat: repeat;
+    background-attachment : fixed;
+    background-position : bottom right;
+    
+    
+    
+ }
