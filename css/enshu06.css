@@ -1,0 +1,18 @@
+h1{
+    color:red;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:aquamarine;
+}
+
+body{
+    background-image: url("../images/doraemon.jpg");
+    background-repeat: repeat;
+    background-attachment : fixed;
+    background-position : bottom right;
+    
+    
+    
+}
