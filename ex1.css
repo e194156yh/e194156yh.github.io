@@ -1,0 +1,35 @@
+ h1 {
+     color:white;
+     font-size: 50px;
+     font-weight : bold; 
+     font-family: "Impact";
+     text-align: center;
+     background-color:red;  
+ }
+
+ h2 {
+     color:white;
+     font-weight : bold;
+     text-align: center;
+     background-color:red;  
+     
+}
+
+h3 {
+     color:white;
+    font-weight: bold; 
+ }
+
+ p {
+     color:black;
+ }
+
+ body{
+    background-image: url("../images/81649301_163x291.jpg");
+    background-repeat: repeat;
+    background-attachment : fixed;
+    background-position : bottom right;
+    
+    
+    
+ }
