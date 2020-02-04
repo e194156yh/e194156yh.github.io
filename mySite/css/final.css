@@ -1,0 +1,148 @@
+div.wrap{
+  width:1000px;
+  margin:0px auto;  
+}
+div.tite{
+ 　 width: 1000px;
+    height: 80px;
+    background-color:chartreuse;
+    text-align: left;
+    font-size: 48px;
+    font-family: "Impact";
+    margin-bottom: 0px;
+    color: cornflowerblue;
+}  
+
+div.middle{
+    width: 1000px;
+    height: 1100px;
+    background-color:chartreuse;
+    font-size: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px; 
+}
+
+div.bottom{
+    width: 1000px;
+    height: 200px;
+    background-color:aqua;
+    text-align: left;
+    font-size: 28px;
+}
+
+div.left{
+    width: 260px;
+    height: 790px;
+    background-color:crimson;
+    display:inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    font-family: "Impact";
+    text-align: center;
+    margin-right: 10px;
+}
+
+div.menuitem0{
+    width: 260px;
+    height: 150px;
+    background-color:coral;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+div.menuitem1{
+    width: 260px;
+    height: 150px;
+    background-color:coral;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+div.menuitem2{
+    width: 260px;
+    height: 150px;
+    background-color:coral;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+div.menuitem3{
+    width: 260px;
+    height: 150px;
+    background-color:coral;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+div.menuitem4{
+    width: 260px;
+    height: 150px;
+    background-color:coral;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+div.menuimage{
+    width: 260px;
+    height: 270px;
+    background-color:chartreuse;
+}
+
+div.right{
+    width: 730px;
+    height: 300px;
+    display: inline-block;
+    vertical-align:top;
+    font-size: 20px;  
+}
+
+
+div.image1{
+    width: 730px;
+    height: 495px;
+    background-color:black;
+    color: crimson;
+    font-size: 28px;
+}
+div.article1{
+    width: 730px;
+    height: 50px;
+    background-color:crimson;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+div.image2{
+    width: 730px;
+    height: 453px;
+    background-color: darkorchid;
+    color:chartreuse;
+    font-size: 28px;
+}
+div.article2{
+    width: 730px;
+    height: 50px;
+    background-color: crimson;
+    text-align: center;
+    font-size: 16px;
+}
+
+body{
+    background-image:url();
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position:bottom right;
+}
+
